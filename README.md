@@ -4,7 +4,7 @@ A Third-year IT student passionate about building real-world applications and im
 
 💻 Full-stack developer in progress (Java | Web Dev | Backend)  
 🤖 Exploring AI-powered applications and modern web technologies  
-🚀 I love turning ideas into working products — from UI to backend logic  
+🚀 I love turning ideas into working products from UI to backend logic  
 🌱 Currently learning DSA and improving problem-solving skills  
 🎯 Actively participating in hackathons and building meaningful projects  
 ✨ Still learning, still growing, but always building  
