@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I'm Chitra 👋  
-A second-year IT student passionate about building real-world applications and impactful tech solutions.  
+A Third-year IT student passionate about building real-world applications and impactful tech solutions.  
 
 💻 Full-stack developer in progress (Java | Web Dev | Backend)  
 🤖 Exploring AI-powered applications and modern web technologies  
